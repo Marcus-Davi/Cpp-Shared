@@ -1,0 +1,5 @@
+/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-SharedLib/build/CMakeFiles/edit_cache.dir
+/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-SharedLib/build/CMakeFiles/usinglocal.dir
+/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-SharedLib/build/CMakeFiles/mylibs.dir
+/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-SharedLib/build/CMakeFiles/rebuild_cache.dir
+/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-SharedLib/build/CMakeFiles/mylib.dir
