@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/usinglocal.dir/src/main.cpp.o  -o usinglocal  -Wl,-rpath,/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-SharedLib/build libmylib.so 

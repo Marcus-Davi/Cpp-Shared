@@ -1,3 +1,0 @@
-/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-UsingShared/build/CMakeFiles/rebuild_cache.dir
-/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-UsingShared/build/CMakeFiles/edit_cache.dir
-/home/projeto/Workspace/Coding/C++/Cpp-Shared/Cpp-UsingShared/build/CMakeFiles/main.dir
